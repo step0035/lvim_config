@@ -1,0 +1,10 @@
+lvim.colorscheme = 'tokyonight-night'
+vim.opt.cursorcolumn = false
+vim.opt.cursorline = true
+vim.opt.wrap = true
+vim.opt.number = true
+vim.opt.clipboard = "unnamedplus"
+vim.opt.ignorecase = true
+vim.opt.mouse = ""
+vim.opt.shiftwidth = 4
+vim.opt.tabstop = 4
